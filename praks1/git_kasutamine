@@ -16,3 +16,6 @@ cd praks1
 
 d) tekita lokaalne repositoorium git süsteemi jaoks antud kaustas
 git init
+
+b) git remote kontroll
+git remote -v
